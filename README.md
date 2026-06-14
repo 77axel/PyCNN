@@ -15,6 +15,8 @@
 
 **Live Demo:** [PyCNN CIFAR-10 Model](https://huggingface.co/spaces/777axel/pycnn_cifar10)
 
+**Code WiKi:** [PyCNN WiKi](https://codewiki.google/github.com/77axel/pycnn)
+
 This is a Convolutional Neural Network (CNN) library project implemented entirely from scratch using only low-level libraries like NumPy, PIL, SciPy and Cython no deep learning frameworks (e.g., TensorFlow or PyTorch) are used. It can train a CNN model on your local dataset folder or an external Hugging Face dataset, save or load models, support CUDA and the Adam optimizer for better performance, and switch the training backend between CPU and GPU
 
 <p align="center">
